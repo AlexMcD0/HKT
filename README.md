@@ -12,4 +12,6 @@ I've made it out of PLA and it works great.
 Uses this daughterboard instead of C3 as it's difficult to get in the UK. 
 https://shop.pimoroni.com/products/adafruit-usb-c-breakout-board-downstream-connection?variant=21780324253779
 
+First manufacture still in progress. 
+
 Contact me on Discord at OrbitalBiscuit0#5132 if you've got any questions. 
