@@ -1,5 +1,5 @@
 # HKT
-A gummy o-ring mounted, Bakeneko-style 60% case with inspiration from Class80
+A gummy o-ring mounted, Bakeneko-style 60% case with inspiration from Class80 and Snake
 
 Hi everyone!
 
