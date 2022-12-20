@@ -3,7 +3,7 @@ A gummy o-ring mounted, Bakeneko-style 60% case with inspiration from Class80
 
 Hi everyone!
 
-This is a keyboard I made with inspiration from the Bakeneko and Class80. 
+This is a keyboard I made with inspiration from the Bakeneko, Snake, and Class80. 
 
 I'm making it out of PLA and it's works great so far. (First manufacture still in progress.)
 
